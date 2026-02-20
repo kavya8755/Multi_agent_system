@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+agentic_ai/
+venv/
+*.egg-info/
+.eggs/
+dist/
+build/
