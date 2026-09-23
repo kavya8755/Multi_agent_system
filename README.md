@@ -1,8 +1,8 @@
 # Multi-Agent System (Learning Project)
 
-A small **multi-agent system** for learning: multiple AI agents (Researcher, Writer, Critic, Coordinator) work in sequence, powered by **Groq** (Llama 3.3 70B).
+A **multi-agent system**: multiple AI agents (Researcher, Writer, Critic, Coordinator) work in sequence, powered by **Groq** (Llama 3.3 70B).
 
-## What You'll Learn
+## Agenda
 
 | Component | Concept |
 |-----------|--------|
