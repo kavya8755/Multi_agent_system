@@ -4,7 +4,7 @@ A **multi-agent system**: multiple AI agents (Researcher, Writer, Critic, Coordi
 
 ## Agenda
 
-| Component | Concept |
+| Component | Concept|
 |-----------|--------|
 | **BaseAgent** | Shared interface, message history, single LLM call pattern |
 | **ResearcherAgent** | Information extraction, bullet-point synthesis |
